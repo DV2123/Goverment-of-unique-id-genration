@@ -1,0 +1,32 @@
+body{
+    margin: 50px auto;
+    display: flex ;
+    justify-content: center;
+}
+
+
+
+.box{
+    height: 236px;
+    width: 710px;
+    background: red;
+    border-radius: 8px;
+    display: flex ;
+    flex-direction: row;
+    align-items: center;
+}
+.leftbox{
+    height: 226px;
+    width: 49%;
+    background: chartreuse;
+    margin-left: 5px;
+
+}
+.rightbox{
+    height: 226px;
+    width: 49%;
+    background: rgb(65, 78, 53);
+    margin-left: 5px;
+
+}
+
